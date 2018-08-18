@@ -1,9 +1,9 @@
 # android
 Your Own Android Lab in Parrot Security OS
 #
-Just based in this great good guide https://guardianproject.info/2017/03/13/build-android-apps-with-debian-apt-install-android-sdk/
+This idea is based in this great good guide https://guardianproject.info/2017/03/13/build-android-apps-with-debian-apt-install-android-sdk/
 #
-#just follow the next steps from your terminal
+#Just follow the next steps, from your terminal
 #
 #
 # Step 1
