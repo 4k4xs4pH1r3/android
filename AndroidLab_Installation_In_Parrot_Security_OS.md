@@ -21,7 +21,14 @@ sudo rm -r dummydroid_1.2-1_all.deb
 #
 # Step 2
 #
+Let's login as root with the bwelow command
 su
+#
+#
+Now itś time to open the Android SDK Manager with this command:
+#
+android
+#
 #
 Install all the packages of the Android SDK Manager
 #
