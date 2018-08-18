@@ -22,20 +22,21 @@ sudo rm -r dummydroid_1.2-1_all.deb
 # Step 2
 #
 Let's login as root with the bwelow command
+#
 su
 #
 #
-Now itś time to open the Android SDK Manager with this command:
+Now is time to open the Android SDK Manager with this command:
 #
 android
 #
 #
-Install all the packages of the Android SDK Manager
+Select all the packages of the Android SDK Manager and Install them
 #
 U 'll receive a message to close and reopen the app, do it multiple times
 #
 # Step 3
-Repeat the step 2 until U see all fully installed :)
+Repeat the step 2 until U see all fully installed, like when where you start to see API 28, P Preview, Android 9, Wear OS, Android TV etc...  :)
 #
 #
 #
