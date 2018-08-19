@@ -64,9 +64,9 @@ wget https://dl.google.com/dl/android/studio/ide-zips/3.1.4.0/android-studio-ide
 #
 unzip android-studio-ide-173.4907809-linux.zip
 #
-cd android-studio
+cd android-studio/bin/
 #
-Start the wizard
+Start the wizard installer
 #
 ./studio.sh
 #
