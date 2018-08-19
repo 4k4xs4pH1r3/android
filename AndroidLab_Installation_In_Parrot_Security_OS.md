@@ -3,7 +3,16 @@ Your Own Cyber Forensic Android Audit Lab in Parrot Security OS
 #
 This idea is based in this great good guide https://guardianproject.info/2017/03/13/build-android-apps-with-debian-apt-install-android-sdk/
 #
-#Just follow the next steps, from your terminal
+#
+#
+#
+With Android SDK Manager and Android Studio U 'll be able to emulate Android
+#
+#
+#
+#
+#
+So Just follow the next steps, from your terminal
 #
 #
 # Step 1
@@ -71,7 +80,7 @@ Start the wizard installer
 #
 ./studio.sh
 #
-Select custom installation, choose theme Darcula and mark Android Device and take a tea again.
+Select custom installation, choose theme Darcula and mark Android Device and take a tea again, until U see that install the updates.
 #
 #
 #
@@ -96,6 +105,17 @@ sudo systemctl start anbox-container-manager.service
 sudo systemctl --user start anbox-session-manager.service
 #
 anbox session-manager
+#
+This command will open the window of Anbox
+#
+anbox launch --package=org.anbox.appmgr --component=org.anbox.appmgr.AppViewActivity
+#
+#
+#
+#
+#
+You can same emulate android with GenyMotion, VMware, VirtualBox, BlueStacks, ARChon, Bliss, Droid4X, KoPlayer, MEmu, Nox, Remix OS Player, Xamarin, YouWave...
+#
 #
 #
 #
