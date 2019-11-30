@@ -39,13 +39,13 @@ Add these 2 lines of Debian Sid repo to the parrot repo.
     nano /etc/apt/sources.list.d/parrot.list  
 #
 #
-#------------------------------------------------------------------------------#
-#                   OFFICIAL DEBIAN REPOS                    
-#------------------------------------------------------------------------------#
+    #------------------------------------------------------------------------------#
+    #                   OFFICIAL DEBIAN REPOS                    
+    #------------------------------------------------------------------------------#
 
-###### Debian Main Repos
-deb http://deb.debian.org/debian/ unstable main contrib non-free
-deb-src http://deb.debian.org/debian/ unstable main contrib non-free
+    ###### Debian Main Repos
+    deb http://deb.debian.org/debian/ unstable main contrib non-free
+    deb-src http://deb.debian.org/debian/ unstable main contrib non-free
 #
 #
 save the file
